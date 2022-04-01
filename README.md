@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ph0enix171
-- 👀 I’m interested in Android and Data Science
-- 🌱 I’m currently learning ML+Data Science
-- 💞️ I’m looking to collaborate on Android Development
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently in University
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me rohan.rsc54@gmail.com
 
 <!---
