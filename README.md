@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ph0enix171
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently in University
+- 👀 I’m interested in Python for Backend Development, and mobile development(Android)
+- 🌱 I’m a Computer Science graduate
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me rohan.rsc54@gmail.com
 
